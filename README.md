@@ -1,4 +1,4 @@
-# AsyncMail Client Framework
+# Gonjeshk AsyncMail Client Framework
 
 **Gonjeshk** is a versatile and feature-rich Python mail client framework built on top of asyncio, providing seamless support for various email providers such as Gmail, Yahoo, and more. It is designed to simplify the process of sending, receiving, and managing emails with a focus on performance and extensibility.
 
